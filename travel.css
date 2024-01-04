@@ -1,0 +1,81 @@
+.box
+{
+    background-image: url(./gallery/1.jpg);
+    width: 100%;
+    height:100vh ;
+    background-size: cover;
+    background-position: center;
+    
+    /* top: 0; */
+}
+.para
+{
+    
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+   
+}
+/* .input
+{
+    margin-top: 90px;
+    margin-left: 20px;
+} */
+/* .row
+{
+    width: 30%;
+    height: 120vh;
+}  */
+/* .select
+{
+    width: 13%;
+    height: 120vh;
+    margin-top: -800px;  
+} */
+/* *{
+     border: solid crimson; 
+} */
+/* .form
+{
+    margin-top: 40px;
+    margin-left: 40px;
+} */
+.center
+{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    margin-top: 0px;
+}
+.para2
+{
+    text-align: center;
+}
+.pics
+{
+    border-radius: 20%;
+}
+
+/* .image1
+{
+    border-radius: 10%;
+} */
+
+.wal
+{
+    border-radius: 10%;
+}
+.roc
+{
+    background-color: rgba(193, 194, 195, 0.66);
+    border-radius: 50px;
+   
+
+}
+.book
+{
+    background-image: url(./gallery/pass.jpg);
+}
+.last
+{
+    background-color: rgb(20, 54, 84);
+    width: 100%;
+}
